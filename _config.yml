@@ -3,10 +3,9 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Nishant Bhaskar
+title: Mechanical Engineer
+email: nishant_b@icloud.com
 
 # Social links
 twitter_username: facespics
@@ -24,9 +23,9 @@ youtube_username: globalmtb
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Nishant and I'm a Mechanical Engineer. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>AutoCAD</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
 # projects_title: Projects
